@@ -20,3 +20,19 @@
 [twitter]: https://twitter.com/indreshkashyap7
 [youtube]: https://www.youtube.com/watch?v=m5INRR8NJLQ
 [linkedin]: https://www.linkedin.com/in/indresh-kashyap-1a91b0207/
+
+### About me 
+
+I'm an Android Developer . I am Familiar with php , java and flutter.
+
+
+### Languages and Tools
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
