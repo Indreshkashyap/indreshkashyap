@@ -2,7 +2,6 @@
 
 - 💻 Mobile App Developer  |  Flutter
 - 🔭 Web Developer | PHP
-- 💻 Languages and tools : C , C++ , Java , dart , PHP , ASP.net , flutter , Android.
 
 
 
