@@ -5,6 +5,7 @@
 - 💻 Languages and tools : C , C++ , Java , dart , PHP , ASP.net , flutter , Android.
 
 
+
 ### Connect with me:
 
 [![Website](https://img.shields.io/website?label=thelazylearner&style=flat-square&url=http%3A%2F%2Fthelazylearner)](https://thelazylearner.com/)
@@ -21,9 +22,13 @@
 [youtube]: https://www.youtube.com/watch?v=m5INRR8NJLQ
 [linkedin]: https://www.linkedin.com/in/indresh-kashyap-1a91b0207/
 
+
+
 ### About me 
 
 I'm an Android Developer . I am Familiar with php , java and flutter.
+
+
 
 
 
