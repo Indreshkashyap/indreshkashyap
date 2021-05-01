@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/website?label=thelazylearner&style=flat-square&url=http%3A%2F%2Fthelazylearner)](https://thelazylearner.com/)
+[![Website](https://img.shields.io/website?label=thelazylearner&style=flat-square&url=https://thelazylearner.com/)](https://thelazylearner.com/)
 [![Linkedin](https://img.shields.io/badge/-indresh%20kashyap-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/indresh-kashyap-1a91b0207/)](https://www.linkedin.com/in/indresh-kashyap-1a91b0207/)
 [![Gmail](https://img.shields.io/badge/-indreshkashyap16@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:indreshkashyap16@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/indreshkashyap7?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%20indreshkashyap7&screen_name=indreshkashyap7)
