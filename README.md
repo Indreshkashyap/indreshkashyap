@@ -40,4 +40,7 @@ I'm an Android Developer . I am Familiar with php , java and flutter.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 
+### GitHub Analytics
+
+![indresh's stats](https://github-readme-stats.vercel.app/api?username=indreshkashyap&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
