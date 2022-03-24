@@ -38,6 +38,8 @@ I'm an Android Developer . I am Familiar with php , java and flutter.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg"></code>
+
 
 
 ### GitHub Analytics
