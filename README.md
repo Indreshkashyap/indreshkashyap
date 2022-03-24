@@ -1,7 +1,7 @@
 ### Hi there, I'm [Indresh](https://www.linkedin.com/in/indresh-kashyap-1a91b0207/) 👋
 
 - 💻 Mobile App Developer  |  Flutter
-- 🔭 Web Developer | PHP
+- 🔭 Web Developer | Angular
 
 
 
